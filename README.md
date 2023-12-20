@@ -40,7 +40,7 @@ python controlnet-downloader-models.py
 ```
 Uma barra de progresso será mostrada no terminal para cada arquivo sendo baixado, indicando o progresso.
 
-[terminal-print]
+![Upload Screenshot](https://github.com/carlosrocha-dev/Controlnet-Downloader-Model/assets/3737837/247ad06f-8e7b-4ba6-b4c0-4737647888d3)
 
 ## Verificação dos Arquivos Baixados
 
