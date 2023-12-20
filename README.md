@@ -51,9 +51,3 @@ Após a execução do script, verifique se todos os arquivos .pth necessários f
 ### Importante ⚠️:
 
 *Não feche o terminhal enqundo o script estiver sendo executado!*
-
-## Suporte
-
-Caso encontre problemas ou tenha dúvidas, verifique se todas as dependências foram instaladas corretamente e se a sua versão do Python é compatível.
-
-Se os problemas persistirem, consulte a documentação do projeto Stable Diffusion WebUI ou abra um issue no repositório do projeto.
