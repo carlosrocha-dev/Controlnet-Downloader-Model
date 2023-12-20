@@ -1,8 +1,9 @@
-# Controlnet-Downloader-Models v0.0.1
+# 📩: Controlnet-Downloader-Models v0.0.1
+
 
 Este diretório contém o Controlnet-Downloader-Models v0.0.1, um script Python desenvolvido para automatizar o download de modelos do ControlNet para uso no Stable Diffusion WebUI (A1111).
 
-## Pré-requisitos
+## 🏁 Pré-requisitos
 
 Antes de começar, assegure-se de ter o Python instalado em seu sistema. Este script foi testado com o Python versão 3.8 ou superior.
 
@@ -42,12 +43,12 @@ Uma barra de progresso será mostrada no terminal para cada arquivo sendo baixad
 
 ![Upload Screenshot](https://github.com/carlosrocha-dev/Controlnet-Downloader-Model/assets/3737837/247ad06f-8e7b-4ba6-b4c0-4737647888d3)
 
-## Verificação dos Arquivos Baixados
+## Verificação dos Arquivos Baixados ✔️
 
 Após a execução do script, verifique se todos os arquivos .pth necessários foram baixados corretamente e estão localizados no diretório
 ```\stable-diffusion-webui\extensions\sd-webui-controlnet\models.```
 
-### Importante [:warning:]
+### Importante ⚠️:
 
 *Não feche o terminhal enqundo o script estiver sendo executado!*
 
